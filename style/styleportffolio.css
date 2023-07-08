@@ -180,4 +180,25 @@ footer{
     background-color: #FFF8F3;
     padding: 130px 230px;
     margin-top: 113px;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+.contacts input, textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color:#757575;
+    border-radius: 5px;
+    background:#FFF;
+    border-radius: 5px;
+    border: 0px;
+    width: 100%;
+}
+.btn-contact{
+
+}
+.social-icon a {
+    margin-right: 24px;
 }
